@@ -1,6 +1,6 @@
 FROM alpine:3.10
 
-LABEL build="Thu 04 Jul 2019 10:52:38 PM CEST"
+LABEL build="Wed 20 Nov 2019 10:01:24 PM CET"
 
 ENV alpine_version="3.10" \
     recursor_version="4.1.13-r0"
